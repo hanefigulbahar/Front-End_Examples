@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(109, 51, 4);
+    font-family: 'Fredoka', sans-serif;
+}
+
+body {
+    background: #e7b8a6;
+    font-family: 'Merriweather', serif;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+p1 {
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 1%;
+}
