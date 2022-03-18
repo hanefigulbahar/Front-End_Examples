@@ -1,0 +1,58 @@
+       body {
+           background-color: #F7FDEC;
+       }
+       
+       header {
+           text-align: center;
+       }
+       
+       nav {
+           text-align: center;
+       }
+       
+       section {
+           text-align: center;
+       }
+       
+       ul {
+           border: 1px;
+           margin: auto;
+           padding-right: 5%;
+           text-align: center;
+           width: 10px;
+       }
+       
+       .article {
+           border: 1px;
+           margin: auto;
+           width: 45%;
+           text-align: center;
+       }
+       
+       .imgPosition {
+           margin-top: 20px;
+       }
+       
+       .headPosition {
+           margin-left: 10px;
+       }
+       
+       h1 {
+           color: #3d4619
+       }
+       
+       h2 {
+           color: #5d6638
+       }
+       
+       h3 {
+           color: #5c6437
+       }
+       
+       a {
+           color: rgb(4, 5, 0);
+       }
+       
+       h2 {
+           text-align: center;
+       }
