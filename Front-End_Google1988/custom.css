@@ -1,0 +1,45 @@
+body {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.head {
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+}
+
+.box1 {
+    display: inline-block;
+    border: 100px;
+    padding-bottom: 3px;
+    width: 40%;
+    background: #7EE5DA;
+}
+
+.box2 {
+    display: inline-block;
+    padding: 1px;
+    padding-top: 26px;
+    padding-bottom: 3px;
+    background: #70CCC2;
+    width: 273px;
+    font-size: 13px;
+}
+
+.box3 {
+    display: inline-block;
+    border: 2px;
+    padding-top: 15px;
+    width: 40%;
+    background: #62B3AA;
+    font-size: 13px;
+}
+
+.footerStyle {
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
