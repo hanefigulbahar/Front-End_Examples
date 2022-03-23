@@ -1,0 +1,45 @@
+body {
+    background: #D9D8D7;
+    color: #260F01;
+}
+
+nav {
+    background: #593718;
+}
+
+.card {
+    background: #b69d87;
+    color: #593718;
+}
+
+h1 {
+    text-align: center;
+    color: #260F01;
+    margin-top: 5%;
+}
+
+h2 {
+    color: #8C623E;
+    margin-bottom: 5%;
+}
+
+.button {
+    background: #593718;
+    color: white;
+}
+
+h5 {
+    color: #8C623E;
+}
+
+h6 {
+    color: #BF8E63;
+}
+
+p {
+    color: #260F01;
+}
+
+article {
+    margin-bottom: 5%;
+}
