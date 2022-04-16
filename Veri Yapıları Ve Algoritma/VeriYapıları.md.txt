@@ -1,0 +1,107 @@
+----------------Proje 1-----------------
+
+-------Insertion Sort Projesi--------
+[22,27,16,2,18,6] -> Dizi 
+1.SORU
+
+1.Adım
+[22,(27),16,2,18,6] -> 27 sayısı 22 sayısından büyük olduğu için yerinde sabit kalır.
+
+2.Adım
+[(16),22,27,2,18,6] -> 16 sayısı 22 ve 27 sayısından küçük olduğu için başa geçer.
+
+3.Adım 
+[(2),16,22,27,18,6]
+
+4.Adım 
+[2,16,(18),22,27,6]
+
+5.Adım
+[2,(6),16,18,22,27]
+
+NOT= Parantez içindeki sayılar işlem gören verilerdir.
+
+2.SORU
+O(n^2)
+
+3.SORU
+O(n)
+
+4.SORU
+Average Case
+
+
+DİZİ-2
+
+[7,3,5,8,2,9,4,15,6]
+
+1.Adım
+
+[(7),3,5,8,2,9,4,15,6]
+
+2.Adım
+
+[(3),7,5,8,2,9,4,15,6]
+
+3.Adım
+
+[3,(5),7,8,2,9,4,15,6]
+
+4.Adım
+
+[3,5,7,(8),2,9,4,15,6]
+
+NOT= Parantez içindeki sayılar işlem gören verilerdir.
+
+
+-------------------Proje 2 -------------------
+------------Merge Sort Projesi-----------
+DİZİ-1
+
+[16,21,11,8,12,22]
+
+1.SORU
+
+1.Adım
+[16,21,11] - [8,12,22]
+
+2.Adım
+[16] - [21,11] - [8] - [12,22]
+
+3.Adım
+[16] - [21] - [11] - [8] - [12] - [22]
+
+4.Adım
+[16] - [11,21] - [8] - [12,22]
+
+5.Adım
+[11,16,21] - [8,12,22]
+
+6.Adım
+[8,11,12,16,21,22]
+
+2.SORU
+
+O(nlogn)
+
+
+-------------------Proje 3-------------------
+------------Binary Search Tree Projesi-----------
+
+DİZİ-1
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+1.SORU
+Yukarıda ki dizinin Binary-Search-Tree aşamalarını yazınız.
+
+root=6
+
+                          (6)
+                      /           \
+                  (5)            (7)
+                /      \              \
+            (1)       (3)           (8)
+            /             \                \
+         (0)             (2)            (9)
+ 
